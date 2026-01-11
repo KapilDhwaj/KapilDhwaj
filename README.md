@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻I'm currently learning C++ continuing with DSA
+🧑‍💻 I'm CSE(AIML) Student.
 
 
 ## 🌐 Socials:
